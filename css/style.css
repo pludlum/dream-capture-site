@@ -236,9 +236,14 @@ p + .box {
 }
 
 .bg-secondary {
-  background: #2d2d2d;
+  background: #83BFAA;
 }
 .bg-secondary h1, .bg-secondary h2, .bg-secondary h3, .bg-secondary h4, .bg-secondary h5, .bg-secondary h6 {
+  color: #ffffff;
+}
+
+.white-paragraph {
+  font-size: 16px;
   color: #ffffff;
 }
 
@@ -716,7 +721,7 @@ blockquote * + p {
   padding-top: 114px;
   padding-bottom: 138px;
   position: relative;
-  background: rgba(16, 207, 189, 0.8);
+  background: rgba(62, 50, 84, 0.8);
 }
 
 /*========================================================
