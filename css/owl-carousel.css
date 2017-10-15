@@ -226,7 +226,7 @@
   height: 13px;
   line-height: 13px;
   text-align: center;
-  border: 1px solid #10cfbd;
+  border: 1px solid #3E3254;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -236,7 +236,7 @@
   transition: 0.3s all ease;
 }
 .owl-dots .owl-dot:hover, .owl-dots .owl-dot.active {
-  background: #10cfbd;
+  background: #3E3254;
 }
 .owl-dots .owl-dot + .owl-dot {
   margin-left: 12px;
