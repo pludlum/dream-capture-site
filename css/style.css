@@ -14,6 +14,16 @@
   color: #ffffff;
   padding-left: 18px;
 }
+.larger-p-tag {
+  font-size: 16px;
+}
+.dream-logo {
+  padding: 15px;
+}
+
+.container.emulator {
+
+}
 
 body {
   background: #edf1f2;
@@ -109,8 +119,12 @@ strong {
 }
 
 .ins1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
   padding-top: 30.263157894736842%;
-  padding-left: 5.263157894736842%;
 }
 
 html body .primary {
@@ -253,7 +267,7 @@ p + .box {
 }
 
 .white-paragraph {
-  font-size: 16px;
+  font-size: 18px;
   color: #ffffff;
 }
 
